@@ -1,12 +1,12 @@
 #SOLID Shop 
 
 ##SOLID Principles 
-s - Single responsibility
+S - Single responsibility
 
-o - Open/Closed principle
+O - Open/Closed principle
 
-l - Liskov substitution
+L - Liskov substitution
 
-i - Interface segregation
+L - Interface segregation
 
-d - Dependency inversion
+D - Dependency inversion
