@@ -2,7 +2,7 @@ package com.spartaglobal.solid_shop.OpenClosedPrinciple;
 
 public class DiscountManager {
 
-   public void processDiscount (IFilmDiscountInterface iFilmDiscountInterface){
-       System.out.println(iFilmDiscountInterface.filmDiscount());
+   public void processDiscount (IFilmDiscount iFilmDiscount){
+       System.out.println(iFilmDiscount.filmDiscount());
    }
 }

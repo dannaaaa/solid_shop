@@ -1,6 +1,6 @@
 package com.spartaglobal.solid_shop.OpenClosedPrinciple;
 
-public class HorrorDiscount implements IFilmDiscountInterface {
+public class HorrorDiscount implements IFilmDiscount {
 
 
     public void setDiscount(String discount) {

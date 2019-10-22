@@ -1,8 +1,9 @@
 package com.spartaglobal.solid_shop.OpenClosedPrinciple;
 
-public class FantasyFilmDiscount implements IFilmDiscountInterface{
+public class FantasyFilmDiscount implements IFilmDiscount {
 
     public void setDiscount(String discount) {
+
         this.discount = discount;
     }
 
@@ -10,7 +11,8 @@ public class FantasyFilmDiscount implements IFilmDiscountInterface{
 
 
     @Override
-    public String filmDiscount() {
+    public String filmDiscount()
+    {
         return null;
     }
 }

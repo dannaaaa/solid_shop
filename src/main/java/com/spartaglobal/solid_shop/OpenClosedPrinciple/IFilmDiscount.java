@@ -1,6 +1,6 @@
 package com.spartaglobal.solid_shop.OpenClosedPrinciple;
 
-public interface IFilmDiscountInterface {
+public interface IFilmDiscount {
 
     String filmDiscount();
 
